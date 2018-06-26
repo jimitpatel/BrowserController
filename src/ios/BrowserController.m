@@ -1,6 +1,6 @@
-#import "SafariViewController.h"
+#import "BrowserController.h"
 
-@implementation SafariViewController
+@implementation BrowserController
 {
   SFSafariViewController *vc;
 }

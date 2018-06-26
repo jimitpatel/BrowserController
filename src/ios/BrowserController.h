@@ -9,7 +9,7 @@
 
 @end
 
-@interface SafariViewController : CDVPlugin <SFSafariViewControllerDelegate>
+@interface BrowserController : CDVPlugin <SFSafariViewControllerDelegate>
 
 @property (nonatomic, copy) NSString* callbackId;
 @property (nonatomic) bool animated;
