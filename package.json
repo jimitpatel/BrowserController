@@ -5,7 +5,8 @@
   "cordova": {
     "id": "cordova-plugin-browsercontroller",
     "platforms": [
-      "ios"
+      "ios",
+      "android"
     ]
   },
   "repository": {
@@ -27,11 +28,5 @@
       "name": "cordova",
       "version": ">=3.0.0"
     }
-  ],
-  "author": "Eddy Verbruggen <eddyverbruggen@gmail.com> (https://github.com/EddyVerbruggen)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller/issues"
-  },
-  "homepage": "https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller#readme"
+  ]
 }
